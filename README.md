@@ -10,3 +10,8 @@ Skills:
 - CSS
 - Javascript
 - Mongo DB
+- React
+- Node JS
+- Express JS
+- Python
+- Arduino 
